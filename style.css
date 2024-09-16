@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #d5e1ef;
+    margin: 0;
+    font-family:sans-serif;
+}
+.container{
+    background-color: white;
+    display: inline-block;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 35%;
+    padding: 10px;
+    width: 25%;
+    height: 500px;
+    border-radius: 20px;
+}
+img{
+    padding: 5px;
+    height: 65%;
+    width: 100%;
+    border-radius: 20px;
+}
+.descricao{
+    text-align: center;
+    font-size: medium;
+}
+p{
+    color: #c2c5cc;
+    font-size: 13px;
+}
+
